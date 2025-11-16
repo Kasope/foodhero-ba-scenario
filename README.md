@@ -1,4 +1,4 @@
-# FoodHero: Business Analytics for Food Waste Reduction
+# FoodHero: Business Analysis for Food Waste Reduction
 AI-driven business analytics framework for reducing food waste through predictive customer behavior analysis
 
 ## Project Overview
